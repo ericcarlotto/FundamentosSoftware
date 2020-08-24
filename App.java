@@ -9,7 +9,7 @@ public class App {
         String placaSel = sc.nextLine();
         if (placaSel==placa) {
             System.out.print(veiculo);
-        }else`{
+        }else{
             System.out.println("Veiculo não encontrado. Tente outra placa.");
         }
     }
